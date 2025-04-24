@@ -1,0 +1,17 @@
+body{
+    background:rgba(255, 152, 34, 0.785);
+}
+h1,p{
+    text-align:center;
+}
+
+img{
+    width: 200px;
+}
+li{
+    color: rgb(255, 255, 255);
+}
+
+
+
+
